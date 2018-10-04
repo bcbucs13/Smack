@@ -1,6 +1,8 @@
 //
-//  Use this file to import your target's public headers that you would like to expose to Swift.
+//  Smack-Bridging-Header.h
+//  Smack
 //
-
-#import "SWRevealViewController.h"
-
+//  Created by user on 10/4/18.
+//  Copyright © 2018 Bradley Carter. All rights reserved.
+//
+#import  <SWRevealViewController/SWRevealViewController.h>
