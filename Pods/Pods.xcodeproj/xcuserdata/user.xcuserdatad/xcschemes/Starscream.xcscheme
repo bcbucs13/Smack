@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "63EEAB1C03B036FCAB9CB588711755F0"
+               BlueprintIdentifier = "5CBAB9E522A190A076C764721A4B2301"
                BlueprintName = "Starscream"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "Starscream.framework">
