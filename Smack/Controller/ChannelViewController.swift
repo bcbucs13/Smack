@@ -17,6 +17,9 @@ class ChannelViewController: UIViewController {
     }
 
     @IBOutlet weak var loginButton: UIButton!
+    @IBAction func prepareForUnwind(segue:UIStoryboardSegue) {
+        
+    }
     @IBAction func loginButtonPressed(_ sender: Any) {
         performSegue(withIdentifier: SEGUE_TO_LOGIN, sender: nil)
         

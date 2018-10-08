@@ -14,6 +14,7 @@
 		CE0ED5482167A0D500459417 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE0ED5472167A0D500459417 /* SWRevealViewController.m */; };
 		CE0ED54C2167B5CD00459417 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0ED54B2167B5CD00459417 /* Constants.swift */; };
 		CE0ED54E2167E61B00459417 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0ED54D2167E61B00459417 /* LoginViewController.swift */; };
+		CE0ED5502169260C00459417 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0ED54F2169260C00459417 /* CreateAccountViewController.swift */; };
 		CE5E8F5D21658BF70085D07C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5E8F5C21658BF70085D07C /* AppDelegate.swift */; };
 		CE5E8F6221658BF70085D07C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE5E8F6021658BF70085D07C /* Main.storyboard */; };
 		CE5E8F6421658C000085D07C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE5E8F6321658C000085D07C /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 		CE0ED5472167A0D500459417 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
 		CE0ED54B2167B5CD00459417 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		CE0ED54D2167E61B00459417 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		CE0ED54F2169260C00459417 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
 		CE5E8F5921658BF70085D07C /* Smack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Smack.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE5E8F5C21658BF70085D07C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE5E8F6121658BF70085D07C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				CE0ED535216652E300459417 /* ChatViewController.swift */,
 				CE0ED537216652F400459417 /* ChannelViewController.swift */,
 				CE0ED54D2167E61B00459417 /* LoginViewController.swift */,
+				CE0ED54F2169260C00459417 /* CreateAccountViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				CE5E8F5D21658BF70085D07C /* AppDelegate.swift in Sources */,
 				CE0ED536216652E300459417 /* ChatViewController.swift in Sources */,
 				CE0ED5482167A0D500459417 /* SWRevealViewController.m in Sources */,
+				CE0ED5502169260C00459417 /* CreateAccountViewController.swift in Sources */,
 				CE0ED5452166A52F00459417 /* GradientView.swift in Sources */,
 				CE0ED538216652F400459417 /* ChannelViewController.swift in Sources */,
 				CE0ED54C2167B5CD00459417 /* Constants.swift in Sources */,
